@@ -1,0 +1,39 @@
+Demo concepts:
+
+- Environments
+  - An environment is a kind of memory in the Python interpreter that keeps
+    track of what names mean
+  - Which names are bound to which values
+  - I'll define "environment" at the end of this lecture.
+
+
+- Expressions & values:
+  - Operator/Operand are expressions... Function/argument are values
+  - There are many ways to talk about functions because they are so important to computer science
+    - call on args, apply to args, pass args, args are inputs to the function
+    - return value, output value, calling fn evaluates to ...
+  - Two steps to evaluating a call expression: 
+    - figure out what you're dealing with, 
+    - then call the function.
+
+- User-defined functions
+  - When we evaluate a call expression that applies a user-defined function
+  - There are two expressions of interest, the call expression and the return
+    expression
+  - They are evaluated in different environments
+  - Applying the function in the call expression causes the creation of the
+    local frame, which is the first frame of the environment used to evaluate
+    the return expression
+  - All three local frames contain a binding for the name x, but some are
+    bound to different values. Local frames keep these names separate.
+
+- Formal params and scope
+  - The meaning of a function should be independent of the parameter names
+    chosen by its author.
+  - If we want that fact to hold, we need to keep names local; that's why we
+    have different frames.
+  - The scope of a name binding: the set of expressions that could possibly look
+    up that binding when they are evaluated.
+  - Scope of a formal parameter name for a function is the body of that
+    function.
+  - The scope of any built-in name is everything.

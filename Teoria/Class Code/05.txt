@@ -1,0 +1,38 @@
+- Announcements
+  - Homework is hard, and "extra for experience" is really hard.  If you want to
+    start with problems that aren't so challenging, go to lab.
+  - Solutions to homework are posted.
+  - Waitlist open until 9/14?
+
+- Office hours
+  - You need to go to office hours.  Every hour you spend with your peers
+    talking about a problem is worth 5 hours of just trying by yourself.  Don't
+    be shy about helping each other; that's the point.
+  - Office hours schedule (show it; apologize for error)
+  - Part of joining the computer science community is learning to ask technical
+    questions.  All day, I walk into people's offices to say, "I tried this code
+    and it gave me that error; what's going on?"  Or, "I want to write a
+    function that does..., how would I do that?"
+  - If you spend 5 hours struggling with a problem before asking a question,
+    you're taking the wrong approach.
+  - Upper division: office hours are *packed*!  The students you succeed in
+    computer science are the ones who ask questions.
+  - Commitment: say what you will do, then do it.
+  - TAs, I'd like you to take a vow.  Whenever a student comes to my office
+    hours with any question, whatsoever, will you do your best to answer their
+    question and guide them from a state of confusion to a state of
+    enlightenment; if so, say "we will"
+  - Students, I'd like you to take a vow.  Whenever you struggle to understand a
+    homework problem, project question, or lecture slide, will you ask a
+    question, either in office hours, on Piazza, to a friend, or via email to
+    the staff, rather than struggling by yourself for hours and exasperating
+    yourself with frustration; if so, say "we will"
+  - By the power vested in me by the great university of California, Berkeley, I
+    pronounce you all "not alone."
+
+- Hog
+  - Assignments are designed to use what I'm teaching you; no more, no less.
+  - If you've read ahead or used Python before, constrain yourselves.  I'm not
+    going to take off points if you use a list, but I want to issue a challenge:
+    let the constraints of the course unlock your creativity.
+  - Explain rules, etc.
